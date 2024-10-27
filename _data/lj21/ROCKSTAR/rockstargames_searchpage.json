@@ -1,0 +1,15 @@
+{
+  "name": "rockstargames_searchpage",
+  "user_flow": [
+    "searching-finding"
+  ],
+  "screens": [
+    "search"
+  ],
+  "ui_elements": [
+    "search-bar"
+  ],
+  "platform": "web",
+  "image": "1730029024378.jpg",
+  "date": "2024-10-27T11:37:52.070Z"
+}
